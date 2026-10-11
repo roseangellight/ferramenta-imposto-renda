@@ -21,7 +21,8 @@ Este projeto foi desenvolvido como parte do desafio da plataforma DIO. O objetiv
 
 <img width="1247" height="918" alt="image" src="https://github.com/user-attachments/assets/179092fa-feff-4ac1-9c04-cba49e5e49f6" />
 
-<img width="1072" height="913" alt="image" src="https://github.com/user-attachments/assets/a560288c-b6c3-4232-9c14-7e48ac6d699a" />
+<img width="1092" height="861" alt="image" src="https://github.com/user-attachments/assets/6c825db0-5617-48c2-9551-7842f0ea6bcb" />
+
 
 
 

@@ -33,5 +33,5 @@ Durante o desenvolvimento deste projeto, pude consolidar conhecimentos em:
 - Estruturação e Validação de Dados.
 - Documentação técnica e versionamento de projetos usando o GitHub.
 
-## 👨‍💻 Autora: Rozangela
-[Seu Nome / Link para seu LinkedIn]
+## 👨‍💻 Autora:
+[Rozangela / https://www.linkedin.com/in/rozangelamoreira-pm/]

@@ -7,7 +7,7 @@ Este projeto foi desenvolvido como parte do desafio da plataforma DIO. O objetiv
 - **Menu de Navegação:** Botões interativos para fácil transição entre as abas.
 - **Validação de Dados:** Regras automáticas que evitam erros de digitação nos valores e datas.
 - **Dashboard/Resumo:** Visualização clara das entradas e saídas.
-- **Links Rápidos:** Acesso direto a portais úteis da Receita Federal.
+- **Links Rápidos:** Acesso direto entre as abas e informações
 
 ## 💻 Como Utilizar
 1. Faça o download do arquivo `Projeto Final.xlsx` neste repositório.

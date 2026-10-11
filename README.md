@@ -36,4 +36,5 @@ Durante o desenvolvimento deste projeto, pude consolidar conhecimentos em:
 - Documentação técnica e versionamento de projetos usando o GitHub.
 
 ## 👨‍💻 Autora:
-[Rozangela / https://www.linkedin.com/in/rozangelamoreira-pm/]
+_*Rozangela*_ / _*https://www.linkedin.com/in/rozangelamoreira-pm/*_
+_(Soli Deo Gloria)_
